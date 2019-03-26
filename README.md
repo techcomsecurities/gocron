@@ -1,4 +1,4 @@
-This package is currently looking for new maintainers. Please message @jasonlvhit if you are interested.
+## This package is fork from @jasonlvhit [repository](https://github.com/jasonlvhit/gocron) .
 
 ## goCron: A Golang Job Scheduling Package.
 
